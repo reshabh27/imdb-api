@@ -34,6 +34,24 @@
       "id": 1
     },
     {
+        "id": '3',
+        "cast": [
+          "Mrunal Thakur",
+          "Shruti Haasan",
+          "Nani"
+        ],
+        "description": "A single father begins to narrate the story of the missing mother to his child and nothing remains the same.",
+        "genre": [
+          "Romance",
+          "Drama"
+        ],
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Hi_Nanna_poster.jpg",
+        "releaseYear": "2023",
+        "title": "Hi Nanna",
+        "reviews": [],
+        "ratings": []
+      },
+    {
       "title": "The Dark Knight",
       "posterUrl": "https://i.scdn.co/image/ab67616d0000b2739ca20352ead0cc8dccdf7951",
       "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
